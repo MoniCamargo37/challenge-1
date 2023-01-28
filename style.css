@@ -63,8 +63,8 @@ nav {
 }
 
 nav ul {
-  list-style: none; /* remove default bullets */
-  display: flex; /* use flexbox layout */
+  list-style: none; 
+  display: flex; 
   justify-content: space-evenly;
 }
 
